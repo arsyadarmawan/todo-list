@@ -148,10 +148,10 @@ make dep
 
 Running app
 ```console
-make dep
+make run
 ```
 
 Unit testing
 ```console
-make dep
+make testing
 ```
