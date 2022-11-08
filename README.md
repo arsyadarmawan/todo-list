@@ -1,6 +1,7 @@
-# Pintap Recruitment
+# Moonlay Recruitment
 
-This requirement from https://docs.google.com/document/d/18Yt-YBxnDJyuTjotIVaWJdBhpEeH3_89/edit?usp=sharing&ouid=110539423922657302860&rtpof=true&sd=true
+This requirement from https://github.com/maulanardy/moonlay-academy-technical-test/tree/be-golang
+
 ## Summary
 This app provides REST API for todo list stuff, This Rest API including simple CRUD (Create Read Update Delete) with unit testing, migration, and containerization using docker file.
 
@@ -44,7 +45,7 @@ own database server. The kit requires **Docker 17.05 or higher** for the multi-s
 
 
 # download the starter kit
-git clone https://github.com/arsyadarmawan/todo-list-jwt.git
+git clone https://github.com/arsyadarmawan/todo-list
 
 cd todo-list
 
